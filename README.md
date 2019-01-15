@@ -9,4 +9,3 @@ docker run --rm \
   -v $PWD:/sln \
   andrewlock/nerdbank-gitversioning:2.3.38 get-version
 ```
-
