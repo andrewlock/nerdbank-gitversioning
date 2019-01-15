@@ -7,6 +7,6 @@ Run by using a simple wrapper that mounts the working directory, and passes in a
 ```bash
 docker run --rm \
   -v $PWD:/sln \
-  andrewlock/nerdbank:2.3.38 `get-version`
+  andrewlock/nerdbank-gitversioning:2.3.38 get-version
 ```
 
