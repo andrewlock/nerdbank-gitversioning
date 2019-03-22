@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1.503-sdk AS builder
+FROM microsoft/dotnet:2.1.504-sdk AS builder
 
 ENV NBGV_VERSION 2.3.38
 
